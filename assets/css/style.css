@@ -199,7 +199,7 @@ hr{
    float: left;
    padding: 30px 0 0 10px;
    text-align: center;
-   margin: 2px;
+   margin: 1.5px;
 
 }
 
@@ -227,7 +227,6 @@ footer{
     color: #777777;
 }
 
-
 #photo {
     clear: both;
     line-height: 0;
@@ -239,9 +238,7 @@ footer{
     width: 100%;
 }
 
-
 /* form */
-
 .form-section {
     clear: both;
     background: url("/assets/images/formbg.jpg");
@@ -341,7 +338,7 @@ footer{
     }
     
     #photo{
-        column-count:3;
+        column-count:4;
     }
     
     
